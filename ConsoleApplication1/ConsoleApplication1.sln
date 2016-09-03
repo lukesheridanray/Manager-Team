@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{FF2355C1-DAF2-4D7F-832C-A0D7C3A36549}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamPowered", "ConsoleApplication1\TeamPowered.csproj", "{FF2355C1-DAF2-4D7F-832C-A0D7C3A36549}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
